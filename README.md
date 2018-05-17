@@ -1,4 +1,5 @@
 # blackart-loader
+<<<<<<< HEAD
 
 > EIP project use, blackart loader
 
@@ -26,3 +27,6 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+establish for EIP project
+>>>>>>> 348e79c24514dafeb28e43f1ca76340197f0afb4
