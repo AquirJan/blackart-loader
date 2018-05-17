@@ -1,0 +1,22 @@
+.blackart-icon{
+  width:1.5em;
+  height:1.5em;
+  font-size:1.5em;
+  display:block;
+}
+.blackart-icon.loading{
+  margin:8px auto;
+  animation:blackartRound360 1s infinite linear;
+}
+.blackart-icon.reload{
+  margin:8px auto;
+  cursor:pointer;
+}
+@keyframes blackartRound360{
+  from{
+    transform:rotate(0deg);
+  }
+  to{
+    transform:rotate(360deg);
+  }
+}
